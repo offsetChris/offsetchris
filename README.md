@@ -1,5 +1,5 @@
 # offsetchris
-offsetchris.com code base
+offsetchris.com code base. More information to come soon as this is built out.
 
 ##Sass structure
 
