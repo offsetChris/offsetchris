@@ -1,0 +1,25 @@
+{
+  "name": "offsetchris-website",
+  "version": "1.0.0",
+  "description": "Code base for offsetchris.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/offsetChris/offsetchris-website.git"
+  },
+  "author": "Christina Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/offsetChris/offsetchris-website/issues"
+  },
+  "homepage": "https://github.com/offsetChris/offsetchris-website#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
